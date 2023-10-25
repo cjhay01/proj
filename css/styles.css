@@ -1,6 +1,6 @@
-div.bg-image {
-    background-image: url("../images/main-bg.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+body.dm {
+    background-color: #222;
+}
+p.dm, h1.dm, h2.dm, h3.dm, h4.dm, h5.dm, h6.dm {
+    color: #DDD;
 }
